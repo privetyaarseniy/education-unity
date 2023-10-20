@@ -1,0 +1,691 @@
+Payload for "WriteText Library/Bee/artifacts/csharpactions/boot.config_7kyv.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.PlayerBuildProgramBase","methodName":"WriteBootConfigAction","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll","targets":["Library/Bee/artifacts/WebGL/boot.config"],"inputs":["Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/boot.config","Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AIModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AccessibilityModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AndroidJNIModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AnimationModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AssetBundleModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AudioModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ClothModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ContentLoadModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CoreModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CrashReportingModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DSPGraphModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DirectorModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GIModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GameCenterModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GridModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.HotReloadModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.IMGUIModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ImageConversionModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputLegacyModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.JSONSerializeModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.LocalizationModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ParticleSystemModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PerformanceReportingModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.Physics2DModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PhysicsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ProfilerModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PropertiesModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ScreenCaptureModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SharedInternalsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteMaskModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteShapeModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.StreamingModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubstanceModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubsystemsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TLSModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainPhysicsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreFontEngineModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreTextEngineModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextRenderingModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TilemapModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIElementsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UmbraModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsCommonModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityConnectModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityCurlModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityTestProtocolModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAudioModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestTextureModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestWWWModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VFXModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VRModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VehiclesModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VideoModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WindModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.XRModule.dll","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll","C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll","C:/Users/user/Prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Accessibility.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.AccessControl.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.AppContext.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Buffers.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Concurrent.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.NonGeneric.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Specialized.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Annotations.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.EventBasedAsync.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.TypeConverter.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Console.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.Common.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.SqlClient.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Contracts.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Debug.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.FileVersionInfo.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Process.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.StackTrace.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TextWriterTraceListener.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tools.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceEvent.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceSource.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tracing.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Drawing.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Dynamic.Runtime.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Calendars.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Compression.ZipFile.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.AccessControl.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.DriveInfo.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Watcher.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.IsolatedStorage.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.MemoryMappedFiles.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Pipes.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.UnmanagedMemoryStream.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Expressions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Parallel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Queryable.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Memory.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.AuthenticationManager.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Cache.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.HttpListener.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Mail.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NameResolution.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NetworkInformation.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Ping.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Requests.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Security.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.ServicePoint.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Sockets.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Utilities.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebHeaderCollection.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.Client.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ObjectModel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.DispatchProxy.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.ILGeneration.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.Lightweight.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.TypeExtensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Reader.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ReaderWriter.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ResourceManager.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Writer.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.CompilerServices.VisualC.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Handles.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.RuntimeInformation.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.WindowsRuntime.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Loader.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Numerics.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Formatters.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Json.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Xml.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.AccessControl.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Claims.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Algorithms.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Cng.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Csp.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.DeriveBytes.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encoding.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.Aes.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDsa.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.Algorithms.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.OpenSsl.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Pkcs.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.ProtectedData.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RSA.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RandomNumberGenerator.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.X509Certificates.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.Windows.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.SecureString.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Duplex.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Http.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.NetTcp.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Security.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceProcess.ServiceController.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.CodePages.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.RegularExpressions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.AccessControl.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Overlapped.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Parallel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Thread.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.ThreadPool.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Timer.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ValueTuple.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.ReaderWriter.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XDocument.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XDocument.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XmlDocument.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlDocument.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlSerializer.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.Xsl.Primitives.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/netstandard.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Microsoft.CSharp.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Sqlite.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Tds.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Security.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.Composition.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.DataAnnotations.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.Install.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Core.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.DataSetExtensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Entity.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Linq.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.OracleClient.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.Client.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Design.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.Protocols.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.Design.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.EnterpriseServices.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.FileSystem.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.Selectors.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Json.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Management.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Messaging.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.WebRequest.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.Vectors.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Reflection.Context.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Caching.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.DurableInstancing.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Remoting.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.Formatters.Soap.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Security.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Activation.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Discovery.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Internals.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Routing.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Web.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceProcess.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Transactions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.ApplicationServices.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.DynamicData.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.Design.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.RegularExpressions.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Services.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.DataVisualization.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xaml.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Linq.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Serialization.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.dll","A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/mscorlib.dll","Library/Bee/Player0b331194-inputdata.json"],"targetDirectories":[]}}    
+
+Payload for "WriteResponseFile Library/Bee/artifacts/rsp/691368181962712188.rsp"
+
+--allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AIModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AccessibilityModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AndroidJNIModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AnimationModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AssetBundleModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.AudioModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ClothModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ContentLoadModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CoreModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.CrashReportingModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DSPGraphModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.DirectorModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GIModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GameCenterModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.GridModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.HotReloadModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.IMGUIModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ImageConversionModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputLegacyModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.InputModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.JSONSerializeModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.LocalizationModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ParticleSystemModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PerformanceReportingModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.Physics2DModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PhysicsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ProfilerModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.PropertiesModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.ScreenCaptureModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SharedInternalsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteMaskModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SpriteShapeModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.StreamingModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubstanceModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.SubsystemsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TLSModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TerrainPhysicsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreFontEngineModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextCoreTextEngineModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TextRenderingModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.TilemapModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIElementsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UIModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UmbraModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityAnalyticsModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityConnectModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityCurlModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityTestProtocolModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestAudioModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestTextureModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.UnityWebRequestWWWModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VFXModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VRModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VehiclesModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.VideoModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WindModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.XRModule.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll" --allowed-assembly="C:/Users/user/Prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Accessibility.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.AccessControl.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/Microsoft.Win32.Registry.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.AppContext.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Buffers.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Concurrent.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.NonGeneric.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.Specialized.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Collections.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Annotations.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.EventBasedAsync.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.TypeConverter.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ComponentModel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Console.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.Common.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Data.SqlClient.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Contracts.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Debug.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.FileVersionInfo.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Process.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.StackTrace.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TextWriterTraceListener.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tools.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceEvent.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.TraceSource.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Diagnostics.Tracing.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Drawing.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Dynamic.Runtime.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Calendars.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Globalization.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Compression.ZipFile.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.AccessControl.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.DriveInfo.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.Watcher.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.FileSystem.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.IsolatedStorage.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.MemoryMappedFiles.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.Pipes.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.UnmanagedMemoryStream.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.IO.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Expressions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Parallel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.Queryable.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Linq.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Memory.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.AuthenticationManager.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Cache.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.HttpListener.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Mail.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NameResolution.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.NetworkInformation.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Ping.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Requests.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Security.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.ServicePoint.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Sockets.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.Utilities.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebHeaderCollection.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.Client.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Net.WebSockets.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ObjectModel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.DispatchProxy.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.ILGeneration.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.Lightweight.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Emit.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.TypeExtensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Reflection.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Reader.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ReaderWriter.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.ResourceManager.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Resources.Writer.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.CompilerServices.VisualC.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Handles.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.RuntimeInformation.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.InteropServices.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Loader.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Numerics.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Formatters.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Json.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.Serialization.Xml.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Runtime.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.AccessControl.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Claims.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Algorithms.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Cng.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Csp.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.DeriveBytes.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encoding.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.Aes.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDiffieHellman.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.ECDsa.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Encryption.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.Algorithms.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Hashing.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.OpenSsl.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Pkcs.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.ProtectedData.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RSA.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.RandomNumberGenerator.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Cryptography.X509Certificates.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.Windows.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.Principal.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Security.SecureString.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Duplex.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Http.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.NetTcp.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceModel.Security.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ServiceProcess.ServiceController.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.CodePages.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.Encoding.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Text.RegularExpressions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.AccessControl.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Overlapped.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.Parallel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Tasks.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Thread.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.ThreadPool.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.Timer.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Threading.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.ValueTuple.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.ReaderWriter.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XDocument.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XDocument.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.XmlDocument.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XPath.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlDocument.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.XmlSerializer.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/System.Xml.Xsl.Primitives.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades/netstandard.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Microsoft.CSharp.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Sqlite.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Data.Tds.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Mono.Security.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.Composition.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ComponentModel.DataAnnotations.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.Install.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Configuration.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Core.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.DataSetExtensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Entity.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Linq.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.OracleClient.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.Client.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.Services.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Data.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Design.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.Protocols.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.DirectoryServices.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.Design.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Drawing.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.EnterpriseServices.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.FileSystem.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IO.Compression.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.Selectors.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.IdentityModel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Json.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Management.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Messaging.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.WebRequest.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.Http.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Net.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.Vectors.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Numerics.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Reflection.Context.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Caching.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.DurableInstancing.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Remoting.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.Formatters.Soap.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Runtime.Serialization.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Security.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Activation.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Discovery.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Internals.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Routing.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.Web.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceModel.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.ServiceProcess.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Transactions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.ApplicationServices.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.DynamicData.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.Design.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Extensions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.RegularExpressions.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.Services.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Web.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.DataVisualization.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.Forms.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Windows.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xaml.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Linq.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.Serialization.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.Xml.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/System.dll" --allowed-assembly="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/mscorlib.dll" --out="Library/Bee/artifacts/WebGL/ManagedStripped" --include-link-xml="C:/Users/user/Prototype1/Temp/StagingArea/Data/Managed\TypesInScenes.xml" --include-directory="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies" --include-directory="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Managed" --include-directory="C:/Users/user/Prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc" --include-directory="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux" --include-directory="A:/2022.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityaot-linux/Facades" --rule-set=Conservative --profiler-report --profiler-output-file="C:/Users/user/Prototype1/Library/Bee/artifacts/unitylinker_ber2.traceevents" --dotnetprofile=unityaot-linux --dotnetruntime=Il2Cpp --architecture=EmscriptenJavaScript --platform=WebGL --use-editor-options --enable-engine-module-stripping --engine-modules-asset-file="A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/modules.asset" --editor-data-file="C:/Users/user/Prototype1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json" --include-unity-root-assembly="C:/Users/user/Prototype1/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" --print-command-line --enable-analytics    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/UnityClassRegistration.cpp_h3uk.info"
+
+{"PlayerBuildProgramLibrary.ClassRegistrationGenerator+Arguments":{"linkerOutput":"Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","editorOutput":"C:/Users/user/Prototype1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","moduleAssetsPath":"A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/modules.asset","outputClassRegistration":"C:/Users/user/Prototype1/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp","enableStripping":true},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"PlayerBuildProgramLibrary.ClassRegistrationGenerator","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll","targets":["C:/Users/user/Prototype1/Library/Bee/artifacts/WebGL/il2cppOutput/UnityClassRegistration.cpp"],"inputs":["Library/Bee/artifacts/WebGL/ManagedStripped/UnityLinkerToEditorData.json","C:/Users/user/Prototype1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/modules.asset"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/c7e6g5d7kpdd0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/UnityAdsStubs.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/char-conversions.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/il2cpp-api.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/il2cpp-benchmark-support.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/il2cpp-mono-api.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/il2cpp-runtime-stats.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/op5u1kokz0ep0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-common.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-il2cpp.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/codegen/il2cpp-codegen-tiny.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/v254w3900clk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/BoehmGC.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/GCHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/GarbageCollector.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/NullGC.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrier.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/gc/WriteBarrierValidation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/9q7dann1ne2m0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/Runtime.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeClassHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeGPtrArrayHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/RuntimeMarshal.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/Mono/SafeStringMarshal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r5b4ymoidbj50.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/Debugger.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackFrame.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Diagnostics/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/4jinnk4alyw90.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CalendarData.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CompareInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureData.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/CultureInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Globalization/RegionInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/b7rr7yqy7fe10.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/BrokeredFileSystem.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/DriveInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/MonoIO.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.IO/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sctwb2ymj5hp0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Assembly.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/CustomAttributeData.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/EventInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/ParameterInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeMethodInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sctwb2ymj5hp1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/AssemblyName.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/FieldInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/Module.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethodInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeAssembly.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeEventInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeModule.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeParameterInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sctwb2ymj5hp2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MethodBase.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/MonoMethod.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeConstructorInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimeFieldInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Reflection/RuntimePropertyInfo.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/s7jt5t8j6kss0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/GCHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/Marshal.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.InteropServices/RuntimeInformation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/4qhtb1l5mscw0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/AsyncResult.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Runtime.Remoting.Messaging/MonoMethodMessage.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/xsyunkwex11p0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsIdentity.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsImpersonationContext.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Security.Principal/WindowsPrincipal.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/e4hshs984w190.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/EncodingHelper.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Text/Normalization.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/nls77i4867yu0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/InternalThread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Monitor.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Mutex.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/NativeEventCalls.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/OSSpecificSynchronizationContext.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Thread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/Timer.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System.Threading/WaitHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/xcaxk7ysdgmu0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ArgIterator.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeFieldHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/xcaxk7ysdgmu1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/AppDomain.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Array.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CurrentSystemTimeZone.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/DateTime.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/NumberFormatter.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Object.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeMethodHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/xcaxk7ysdgmu2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Buffer.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/GC.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/MonoCustomAttrs.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeType.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/RuntimeTypeHandle.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/xcaxk7ysdgmu3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/CLRConfig.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ConsoleDriver.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Delegate.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Enum.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Exception.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/Number.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/String.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/TypedReference.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/mscorlib/System/ValueType.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x1hcjemxihcq0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/DefaultTraceListener.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/FileVersionInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Process.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Diagnostics/Stopwatch.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/iywmooixdev90.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/LinuxNetworkInterface.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.NetworkInformation/MacOsIPInterfaceProperties.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/gaq9he7qhvh90.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/Socket.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/icalls/System/System.Net.Sockets/SocketException.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/a4fb8w8b5p1k0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeCreator.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/CustomAttributeDataReader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/FieldLayout.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMetadata.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericSharing.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextCompare.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodHash.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppSignature.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/a4fb8w8b5p1k1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/ArrayMetadata.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/GenericMethod.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericContextHash.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericMethodCompare.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeCompare.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/a4fb8w8b5p1k2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassCompare.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericClassHash.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstCompare.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppGenericInstHash.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/metadata/Il2CppTypeHash.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/fvygwdfcafvw0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/j369rltvl8hk0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Android/ConsoleExtension.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Android/Initialize.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Android/Locale.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Android/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/oyt05um85ec00.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/CultureInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Error.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/File.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Locale.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/oyt05um85ec01.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Allocator.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Console.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Directory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Path.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Socket.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/c-api/Time.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sj0fbt3qqi9f0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_errno.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_io.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_networking.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_random.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_sizecheck.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_time.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_uid.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ClassLibraryPAL/pal_unused.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/bhy4rtaejf2e0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/CrashHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Error.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Event.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/FastReaderReaderWriterLock.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/LibraryLoader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Messages.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Semaphore.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/bhy4rtaejf2e1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ConditionVariable.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Image.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Mutex.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Path.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/ReaderWriterLock.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Socket.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/StackTrace.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f60f9vpe35rb0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/BrokeredFileSystem.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Initialize.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WaitObject.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f60f9vpe35rb1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Assert.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CpuInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Debug.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Handle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/LibraryLoader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MemoryMappedFile.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SystemCertificates.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Thread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/f60f9vpe35rb2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/COM.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/CrashHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/File.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/MarshalStringAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketBridge.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Generic/SocketImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/w9wocb0rgfa20.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Image.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Process.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/OSX/SystemCertificates.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/OSX/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ri9m0nulrlwz0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CrashHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Error.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Locale.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/PosixHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Thread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ThreadImpl.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ri9m0nulrlwz1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Directory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Encoding.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/FileSystemWatcher.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MarshalAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SocketImpl.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/SystemCertificates.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ri9m0nulrlwz2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/CpuInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Cryptography.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/File.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LastError.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/LibraryLoader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/MemoryMappedFile.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ri9m0nulrlwz3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/ConditionVariableImpl.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Console.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Image.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Memory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/NativeMethods.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Path.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Process.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/StackTrace.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/Time.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Posix/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jewupjpo84r10.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Assert.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CrashHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/File.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LibraryLoader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalStringAlloc.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jewupjpo84r11.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Console.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Encoding.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Image.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Locale.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Path.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jewupjpo84r12.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/COM.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Cryptography.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Debug.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Directory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/DllMain.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/FileSystemWatcher.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Initialize.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MemoryMappedFile.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/NativeMethods.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Process.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SystemCertificates.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Thread.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsHelpers.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jewupjpo84r13.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/MarshalAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Memory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SocketImpl.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/StackTrace.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ThreadImpl.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/jewupjpo84r14.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/ConditionVariableImpl.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/CpuInfo.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/LastError.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/SynchronizationContext.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/Time.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/Win32/TimeZone.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/i7ajsbvh2ynu0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Cryptography.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/File.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Initialize.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Locale.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiSharedEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/i7ajsbvh2ynu1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/BrokeredFileSystem.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/MarshalAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Process.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/os/WinRT/Win32ApiWinRTEmulation.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/q4jkz8e41ge70.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Output.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Runtime.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/mono-structs.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/sha1.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/q4jkz8e41ge71.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Exception.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Il2CppError.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Logging.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Memory.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryMappedFile.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPool.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryRead.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/q4jkz8e41ge72.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/DirectoryUtils.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/Environment.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/MarshalingUtils.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/MemoryPoolAddressSanitizer.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/PathUtils.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/utils/StringUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uaog1j2nkp4x0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/BlobReader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/DebugSymbolReader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Debugger.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/Finally.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/NativeSymbol.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmStringUtils.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/VmThreadUtils.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/js4iwohlgqpl0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/Math.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm-utils/icalls/mscorlib/System/MathF.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb0.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/ClassInlines.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/ComObjectBase.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Module.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Path.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/String.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/VisualizerHelpers.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/WindowsRuntime.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb1.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Array.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Assembly.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/MarshalAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Object.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/PlatformInvoke.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Reflection.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/WaitHandle.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/WeakReference.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb2.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/COM.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/COMEntryPoints.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Enum.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Exception.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/InternalCalls.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Liveness.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataAlloc.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Profiler.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/RCW.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb3.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/AndroidRuntime.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/CCW.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/ClassLibraryPAL.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Domain.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/GlobalMetadata.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/LastError.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/MemoryInformation.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Method.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Monitor.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Random.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/ScopedThreadAttacher.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Thread.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb4.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/AssemblyName.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/CCWBase.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/GenericClass.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/GenericContainer.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Image.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Parameter.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Property.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Type.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb5.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Field.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Il2CppHStringReference.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataLoader.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Runtime.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/StackTrace.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/ThreadPoolMs.cpp"
+    
+
+Payload for "MakeLump Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6auyoce6bvsb6.lump.cpp"
+
+//Generated lump file. generated by Bee.NativeProgramSupport.Lumping
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Class.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/Event.cpp"
+#include "A:/2022.3.4f1/Editor/Data/il2cpp/libil2cpp/vm/MetadataCache.cpp"
+    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteText Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/_dummy_for_header_discovery"
+
+//dummy for header discovery    
+
+Payload for "WriteResponseFile Library/Bee/artifacts/rsp/6070537824006410562.rsp"
+
+qcL "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/GameAssembly.a" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bxrj1fuzdguu.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/8fykp7wummtv.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r36wa0o1xrz6.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dn7hueq9asvh.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/y5to5majgz8m.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zde5p2qhk1p2.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ktht5b5enp1l.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/58khlljcqdd5.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6g5x50zaufuk.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/rw8llae8w353.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ccca1js5zrhn.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/uay176v3brl0.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/4ewmcwh57s99.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zw1qq2r4d282.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nylkfxwipn3p.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7zjui3wjqzvn.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gi14gpfofqtv.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p3l01dru21ry.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/mf3cfeoo4227.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/9an34wa05mup.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/oxo9j2ig559u.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/6yaozmmhini9.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hjjh601al45i.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hsf4g2iqlkyz.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/i0zk1hzopmff.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/3f38grdmsary.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ov6ww0rjvy2h.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p3qdhg8hz0jx.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aju1wpmf2ovg.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/breih52d6qcw.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/w6h6wehb9eof.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2ym5lag8nsh2.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/neqt1ju5qgtl.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/omaamza4uia1.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/91dy18o1x6lk.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/aayemo5z182z.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/vp121xjx4wej.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/g54qh7xu7kq2.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/hdp71metbn7h.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/gx209ppx4byf.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zvc65em3tygc.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/o54mn0q5l0th.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dunod9j3ewr5.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7q3nz0sdylwn.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ckvgp4qxfjm9.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/jfo2vi81q06k.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ois1sslxrqks.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s74uv2acehi6.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ldzh52jsyfm1.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/d8ck9g1siddz.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f94q6thj0xq2.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/bj2cjlduuxqd.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/sdif0bfrwluu.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/h3uk8ikydi00.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/k6m7tzywhpgb.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/f536xbdym27r.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/af7ok9gr025n.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/q02s2f11xepw.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/s6q2tve4aqfe.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/dzc6f5fth1lw.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/afwnlqlbu4k6.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/j9dgf0mfyyhy.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/5oq6g50fb6gi.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/nejf0ekdz9xx.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/tkt89tk2g4em.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7yub485wbww4.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c92thpuqup9x.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/2ss6zsr5ipjl.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/wmytebxgyy7b.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/7eonzoa8z9pg.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/p0z92mns1b2j.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/c1up6clz3end.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/cp84t0aqo8fe.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/r26vobkd6arf.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/1ey2e2h659r2.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/xk3mcid4gsu1.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/zlrj64cuu24z.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/31q3z7llvz2p.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/ke2n4ocgehoy.o" "Library/Bee/artifacts/WebGL/GameAssembly/release_WebGL_wasm/049lcat616sc.o" "Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/6ietb07pvki7.o" "Library/Bee/artifacts/WebGL/bdwgc/release_WebGL_wasm/d1b20xg821ie.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/06fzxgvgsrb0.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1749vucu1s1l.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/19qw4vb5sww3.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1kbyzqbjoidk.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1l71mp6ur5i4.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1rtlew8ltcm0.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1s8pikonvpnk.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/1utni8sad2xe.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/2pftscy63h10.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/2zprcdpjwoco.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/32bw4rld28u6.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/32n3r6bzemol.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/3ihz2zpk0pz1.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/3p5rvn6remcy.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/3rgbepjvcss9.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/4bj8jsmrr53e.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/4pvc3z1i4mlb.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/4rg716962lfc.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/566t2nva6kse.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/57gaodvjf814.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5b3pufsy697v.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5ex7a4bkjry4.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5i09dlnns4si.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5m85i29mlsb7.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/5zf12q6u3rvc.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/63n74srzfkrj.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/66jwjg6x5rpp.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6hlcqrt7ox0h.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6qdiko7y9gtg.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/6vb009c2o759.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7a4z57bk1tnk.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7frqwnozlb53.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7h82kfi7nkwu.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7i7dsrb7130y.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7utql0kvnlk9.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/7vgm5b000wei.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/81asftlrok9c.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8iqj4y4yz7b7.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8j5u8vr9mgih.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/8xtoezf4r3as.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/91xi91b5467g.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/9kiqo9dtra5o.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/9oxbazgm8koe.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/9puelo41175j.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/aaba99e7xqox.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/aq0c9d8zu5xr.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/bh46f7d8njrm.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/c2cowbi05vnz.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/c94wmw25xnme.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ccm8r3nsbva1.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ckpxmmftzcl2.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/dnspqdgzbld9.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/eogu3k5oxdhx.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/fl3ah1lpvl4v.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/fvwqtbmw7arv.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/gd17mhve2njx.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/gefgibrunvml.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/gsma105507ja.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/guyvpc8w4335.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/h7qc5s3sttxr.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/i8y2sd8exn1o.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ie78ujk03q7p.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ivw16y6wzj9i.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/kl7cr7itotet.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/laxypfavq81a.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/le7j8640vzpd.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/lxhrwri4z6nk.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/m0bfo1rt9fm5.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/mc2a1fvx0xcn.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/mqcmx504oby8.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/nd3xhg5zmzy4.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/nibuel2jcsyn.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ny9wi9qfm5rl.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/o41gf7xslyaf.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/o4whixj7y7sf.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ofr13d5ttiv1.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/oj8kurvoc2nv.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/p0at0odkwgv4.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/plzqu2y7dtvr.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/pm2d8kfzu9o1.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/pyadssdhywhv.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/q1lcsw0w4iay.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/qhkfkhpjil8f.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/qm71oukw437q.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r0248guhy535.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/r2i3vzts8h4p.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/riy7i73xc7wb.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ruhuad53w1xx.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/sa2wb7mpygsy.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/t0uxlpnne1oa.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/t2j7hgm3t6sr.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/tguw0pl0ags0.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/tycc62902rgw.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/u78qirml2wu3.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/udsccl37shes.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ujdnapslulk0.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ultlx7rw4xkk.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/um2uk6ff8tbj.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ut8qc1mg4u0u.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/uy2rckyycgmt.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/vgj0gdubt1f8.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/vplcfq8lleqh.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/vs2i9o6o39dp.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/vwnk3pfaxjsa.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/wklov7pdrhuy.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x1jii0q0q3te.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x2n5bxqpq10u.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/x433yfq00d1e.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/y0gbp2900urf.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/y3lpfrr4tz83.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/ypvaq6z0zdzv.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/yuucytrdtueb.o" "Library/Bee/artifacts/WebGL/il2cpp/release_WebGL_wasm/yxav7kq6yb0d.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/1hd0z1rf5g4f.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/1t7ln2o76e04.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/4ud6tkzyxhq6.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/5a40vnl7rbt9.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/9z0xogbrjlrr.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/afsxt0r980br.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/ccirdjb6hulw.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/n0go3kagicln.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/nnf1rkrk7mf1.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/r4d5q7sxm57o.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/vk9mapls11em.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/w8vnw45hec88.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/y7jvoe8zhuzo.o" "Library/Bee/artifacts/WebGL/zlib/release_WebGL_wasm/yjkqqc43exey.o" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/Variations/nondevelopment/baselib.a"    
+
+Payload for "WriteResponseFile Library/Bee/artifacts/rsp/8995565923215908413.rsp"
+
+-s "EXPORTED_RUNTIME_METHODS=['addRunDependency','removeRunDependency','FS_createPath','FS_createDataFile','ccall','cwrap','stackTrace']" --output_eol linux --memory-init-file 0 -s WASM=1 -O2 -g0 -s EXIT_RUNTIME=0 -s "ALLOW_MEMORY_GROWTH=1" -s "ASSERTIONS=0" -s "DISABLE_EXCEPTION_CATCHING=0" -s "DYNCALLS=1" -s "EXPORT_NAME=unityFramework" -s "FULL_ES3=1" -s "GL_EXPLICIT_UNIFORM_BINDING=1" -s "GL_EXPLICIT_UNIFORM_LOCATION=1" -s "INITIAL_MEMORY=33554432" -s "MAXIMUM_MEMORY=2147483648" -s "MAX_WEBGL_VERSION=2" -s "MEMORY_GROWTH_GEOMETRIC_CAP=100663296" -s "MEMORY_GROWTH_GEOMETRIC_STEP=0.2" -s "MODULARIZE=1" -o "Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Audio.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/case_1354245_patch_library_html5_firefox_touchevents.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/case_plat_4600_guard_js_exceptions.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Cursor.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/dlopen.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/DOM.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Eval.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/FileSystem.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Logging.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/MobileKeyboard.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Profiler.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/ScreenOrientation.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Sensor.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/SystemInfo.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/UnetWebSocket.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/uum-34043-patch_emscripten_19226.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/Video.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/WebCam.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/webmemd.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/WebRequest.js" --js-library "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/_patch_library_exceptions.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/UserJsprePlaceholder.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/bw-compat.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/Error.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/FullScreen.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/IdbFs.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/MediaDevices.js" --pre-js "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/prejs/SendMessage.js" "C:/Users/user/Prototype1/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AccessibilityModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AIModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AndroidJNIModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AnimationModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AssetBundleModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_AudioModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ClothModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ContentLoadModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_CoreModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_CrashReportingModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_DirectorModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_DSPGraphModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_GameCenterModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_GIModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_GridModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_HotReloadModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ImageConversionModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_IMGUIModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_InputLegacyModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_InputModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_JSONSerializeModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_LocalizationModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ParticleSystemModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_PerformanceReportingModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_Physics2DModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_PhysicsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ProfilerModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_PropertiesModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_RuntimeInitializeOnLoadManagerInitializerModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_ScreenCaptureModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_SharedInternalsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_SpriteMaskModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_SpriteShapeModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_StreamingModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_SubstanceModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_SubsystemsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TerrainModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TerrainPhysicsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TextCoreFontEngineModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TextCoreTextEngineModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TextRenderingModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TilemapModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_TLSModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UIElementsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UIModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UmbraModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityAnalyticsCommonModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityAnalyticsModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityConnectModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityCurlModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityTestProtocolModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityWebRequestAssetBundleModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityWebRequestAudioModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityWebRequestModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityWebRequestTextureModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_UnityWebRequestWWWModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_VehiclesModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_VFXModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_VideoModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_VRModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_WebGLModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_WindModule_Dynamic.a" "A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/lib/modules/WebGLSupport_XRModule_Dynamic.a" -lidbfs.js     
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info"
+
+{"WebGLPlayerBuildProgram.FrameworkAssembler+Data":{"threadsSupport":false,"source":"Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js","jsprePlugins":[]},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.FrameworkAssembler","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/WebGL Builds.framework.js.gz_gzx5.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe","targets":["WebGL Builds/Build/WebGL Builds.framework.js.gz"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js.unmarked"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/WebGL Builds.wasm.gz_h4cj.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe","targets":["WebGL Builds/Build/WebGL Builds.wasm.gz"],"inputs":["Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.wasm.unmarked"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info"
+
+{"System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]":{"Library/PlayerDataCache/WebGL/Data/data.unity3d":"data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json":"RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json":"ScriptingAssemblies.json","Library/Bee/artifacts/WebGL/boot.config":"boot.config","C:/Users/user/Prototype1/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat":"Il2CppData/Metadata/global-metadata.dat","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources":"Resources/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra":"Data/Resources/unity_builtin_extra"},"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.DataAssembler","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe","targets":["Library/Bee/artifacts/WebGL/webgl.data"],"inputs":["Library/PlayerDataCache/WebGL/Data/data.unity3d","Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json","Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json","Library/Bee/artifacts/WebGL/boot.config","C:/Users/user/Prototype1/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat","A:/2022.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources","Temp/StagingArea/Data/Resources/unity_builtin_extra"],"targetDirectories":[]}}    
+
+Payload for "WriteText Library/Bee/artifacts/csharpactions/WebGL Builds.data.gz_zyyv.info"
+
+{"System.Object":null,"Bee.TundraBackend.CSharpActionInvocationInformation":{"typeFullName":"WebGLPlayerBuildProgram.GzipMarker","methodName":"Run","assemblyLocation":"A:\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\WebGLPlayerBuildProgram.exe","targets":["WebGL Builds/Build/WebGL Builds.data.gz"],"inputs":["Library/Bee/artifacts/WebGL/webgl.data.unmarked"],"targetDirectories":[]}}    
+
