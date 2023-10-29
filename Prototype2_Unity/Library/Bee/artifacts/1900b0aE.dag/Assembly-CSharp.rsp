@@ -357,11 +357,13 @@
 "Assets/Challenge 2/Scripts/MoveForwardX.cs"
 "Assets/Challenge 2/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 2/Scripts/SpawnManagerX.cs"
-"Assets/Scripts/DestroyOutOfBounds.cs"
-"Assets/Scripts/DetectColission.cs"
-"Assets/Scripts/MoveForward.cs"
-"Assets/Scripts/PlayerController.cs"
-"Assets/Scripts/SpawnManager.cs"
+"Assets/Course Library/Scripts/DestroyOutOfBounds.cs"
+"Assets/Course Library/Scripts/DetectColission.cs"
+"Assets/Course Library/Scripts/HealthBar.cs"
+"Assets/Course Library/Scripts/MoveForward.cs"
+"Assets/Course Library/Scripts/PlayerController.cs"
+"Assets/Course Library/Scripts/SpawnManager.cs"
+"Assets/Course Library/Scripts/UI.cs"
 -langversion:9.0
 
 /deterministic
