@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 455
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -331,14 +331,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Course Library/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\user\Prototype1
+  m_LastProjectPath: C:\Users\user\education\Prototype1_Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 118}
-    m_SelectedIDs: d85a0000
-    m_LastClickedID: 23256
-    m_ExpandedIDs: 00000000545a0000565a0000585a000000ca9a3b
+    m_SelectedIDs: d45a0000
+    m_LastClickedID: 23252
+    m_ExpandedIDs: 00000000505a0000525a0000545a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: a85d0000
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000545a0000565a0000585a0000
+    m_ExpandedIDs: 00000000505a0000525a0000545a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -506,7 +506,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6c1d0000
+      m_SelectedIDs: 38070000
       m_LastClickedID: 0
       m_ExpandedIDs: 2cfbffff
       m_RenameOverlay:
@@ -964,7 +964,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.04362528, y: 0.94474566, z: -0.14075603, w: 0.29287744}
     speed: 2
-    m_Value: {x: 0.043624476, y: 0.9447282, z: -0.14075342, w: 0.292872}
+    m_Value: {x: 0.043625284, y: 0.94474566, z: -0.14075603, w: 0.29287744}
   m_Size:
     m_Target: 0.7524504
     speed: 2
