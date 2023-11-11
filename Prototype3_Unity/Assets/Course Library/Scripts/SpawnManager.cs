@@ -5,7 +5,8 @@ using UnityEngine;
 public class SpawnManager : MonoBehaviour
 {
     readonly Vector3 spawnPos = new Vector3(25, 0, 0);
-    public GameObject obstaclePrefab;
+    public float spawnRange;
+    public GameObject[] prefabs = new GameObject[3];
     readonly float startDelay = 2f;
     readonly float delay = 1.5f;
     PlayerController player;
@@ -13,8 +14,8 @@ public class SpawnManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine("SpawnObstacle");
         player = GameObject.Find("Player").GetComponent<PlayerController>();
+        InvokeRepeating("SpawnObstacle", startDelay, delay);
     }
 
     // Update is called once per frame
@@ -23,14 +24,12 @@ public class SpawnManager : MonoBehaviour
         
     }
 
-    IEnumerator SpawnObstacle() 
-    {
-        yield return new WaitForSeconds(startDelay);
-
-        while (!player.gameOver)
+    void SpawnObstacle() 
+    {  
+        if (!player.gamePause)
         {
-            Instantiate(obstaclePrefab, spawnPos, obstaclePrefab.transform.rotation);
-            yield return new WaitForSeconds(delay);
+            int prefabsNum = Random.Range(0, prefabs.Length);
+            Instantiate(prefabs[prefabsNum], spawnPos + new Vector3(Random.Range(-spawnRange, spawnRange), 0, 0), prefabs[prefabsNum].transform.rotation);
         }
     }
 }
